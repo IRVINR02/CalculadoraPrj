@@ -1,0 +1,11 @@
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\bin\Debug\CalculadoraPrj.exe.config
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\bin\Debug\CalculadoraPrj.exe
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\bin\Debug\CalculadoraPrj.pdb
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\obj\Debug\CalculadoraPrj.csproj.AssemblyReference.cache
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\obj\Debug\CalculadoraPrj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\obj\Debug\CalculadoraPrj.Properties.Resources.resources
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\obj\Debug\CalculadoraPrj.csproj.GenerateResource.cache
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\obj\Debug\CalculadoraPrj.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\obj\Debug\CalculadoraPrj.exe
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\obj\Debug\CalculadoraPrj.pdb
+C:\Users\Equipo\Documents\ITP\Programacion II\CalculadoraPrj\CalculadoraPrj\obj\Debug\CalculadoraPrj.Calculadora.resources
